@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Roï Eielts, A young Software Developer that is always wanting to learn programming languages/frameworks!<br><br>🔭 I'm currently working on an exam project where I'm refactoring the code and where the bugs are bieng solved 🐞<br>🌱 I'm diving into Vue.JS to build a sleek, modern web portfolio.<br><br><br>Further more when I'm not coding you might find me looking at cars or clean my own car.
+I'm Roï Eielts, a young Software Developer that is always wanting to learn programming languages/frameworks!<br><br>🔭 I'm currently working on an exam project where I'm refactoring the code and where the bugs are bieng solved 🐞<br>🌱 I'm diving into Vue.JS to build a sleek, modern web portfolio.<br><br><br>Further more when I'm not coding you might find me looking at cars or clean my own car.
 
 
 ## 🌐 Socials:
