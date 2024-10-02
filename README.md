@@ -2,7 +2,7 @@
 I'm Roï Eielts, a young Software Developer that is always wanting to learn programming languages/frameworks!<br><br>🔭 I'm currently working on an exam project where I'm refactoring the code and where the bugs are being solved 🐞<br>🌱 I'm diving into Vue.JS to build a sleek, modern web portfolio.<br><br><br>Further more when I'm not coding you might find me looking at cars or cleaning my own car.
 
 
-## ✍️ Random Dev Quote (off the internet
+## ✍️ Random Dev Quote (off the internet )
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
